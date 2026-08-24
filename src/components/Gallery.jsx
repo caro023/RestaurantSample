@@ -1,19 +1,19 @@
 function Gallery() {
   const images = [
     {
-      src: '../images/gallery1.png',
+      src: './images/gallery1.png',
       alt: 'Tagliolini freschi',
     },
     {
-      src: '../images/gallery2.png',
+      src: './images/gallery2.png',
       alt: 'Vino Barolo',
     },
     {
-      src: '../images/gallery3.png',
+      src: './images/gallery3.png',
       alt: 'Tavola apparecchiata',
     },
     {
-      src: '../images/gallery4.png',
+      src: './images/gallery4.png',
       alt: 'Tartufo fresco',
     },
   ];
