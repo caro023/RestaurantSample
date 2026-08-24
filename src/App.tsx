@@ -12,8 +12,8 @@ import { MenuSection } from './components/MenuSection.tsx';
 import { restaurant } from "./content/restaurant";
 
 const heroImages = [
-  '/images/hero1.png',
-  '/images/hero2.png',
+  './images/hero1.png',
+  './images/hero2.png',
 ];
 
 // --- Nuovo componente Navbar (fissa in alto) ---
