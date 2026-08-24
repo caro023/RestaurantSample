@@ -51,7 +51,7 @@ function Story() {
           </div>
           <div className="relative">
             <img
-              src='../images/story.png'
+              src='./images/story.png'
               alt="Interno della trattoria"
               className="rounded-2xl shadow-2xl"
             />
